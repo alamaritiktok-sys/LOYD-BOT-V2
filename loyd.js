@@ -238,7 +238,7 @@ global.PaiCode      = "LOYDBOT1"
 // Choose ONE method only — leave the other empty
 //
 // 🔑 Pairing Code: ضع رقمك مع كود الدولة بدون +
-//    Put your number with country code (no +)
+//    Put your number with country code (79214445363)
 //    مثال / Example: "966501234567"
 //
 // 📷 QR Code: ضع رقمك أو أي قيمة مثل "true"
